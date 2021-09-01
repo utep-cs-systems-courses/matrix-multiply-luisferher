@@ -6,7 +6,9 @@ and do the proper multiplication between the data and returns a matrix with the 
 Ran 10 tests regarding the time for the method to execute and got the following results:
 
 luisfernando@Luiss-MacBook-Pro matrix-multiply-luisferher %  /usr/bin/env /usr/local/bin/python3 /Users/luisfernando/.vscode/extensions/ms-python.python-2021.5.926500501/pythonFiles/lib/python/debugpy/launcher 51060 -- "/Users/luisfernando/Documents/Parallel Programming/Project 1/matrix-multiply-luisferher/matrixUtils.py" 
+
 Test 0
+
 4 4 4 4 4 4 4 4 4 
 4 4 4 4 4 4 4 4 4 
 4 4 4 4 4 4 4 4 4 
@@ -16,7 +18,9 @@ Test 0
 4 4 4 4 4 4 4 4 4 
 4 4 4 4 4 4 4 4 4 
 4 4 4 4 4 4 4 4 4 
+
 Elapsed Time: 14.659136056900024 Seconds
+
 Test 1
 4 4 4 4 4 4 4 4 4 
 4 4 4 4 4 4 4 4 4 
